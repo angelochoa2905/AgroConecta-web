@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AgroConecta - Productores</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="index.html">Inicio</a></li>
+        <li><a href="productores.html">Productores</a></li>
+        <li><a href="consumidores.html">Consumidores</a></li>
+        <li><a href="tienda.html">Tienda</a></li>
+        <li><a href="impacto.html">Impacto Social</a></li>
+        <li><a href="contacto.html">Contacto</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h1>👩‍🌾 Productores</h1>
+    <p>Pequeños agricultores con menos de 5 hectáreas reciben precios justos al vender directamente.</p>
+    <ul>
+      <li>Acceso a capacitaciones en agricultura sostenible.</li>
+      <li>Eliminación de intermediarios abusivos.</li>
+      <li>Mejora de ingresos familiares.</li>
+    </ul>
+  </main>
+
+  <footer>
+    <p>© 2025 AgroConecta</p>
+  </footer>
+</body>
+</html>
